@@ -1,0 +1,15 @@
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\bin\Debug\net6.0\task1-PalindromeCheck.exe
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\bin\Debug\net6.0\task1-PalindromeCheck.deps.json
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\bin\Debug\net6.0\task1-PalindromeCheck.runtimeconfig.json
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\bin\Debug\net6.0\task1-PalindromeCheck.dll
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\bin\Debug\net6.0\task1-PalindromeCheck.pdb
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.csproj.AssemblyReference.cache
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.GeneratedMSBuildEditorConfig.editorconfig
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.AssemblyInfoInputs.cache
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.AssemblyInfo.cs
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.csproj.CoreCompileInputs.cache
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.dll
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\refint\task1-PalindromeCheck.dll
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.pdb
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\task1-PalindromeCheck.genruntimeconfig.cache
+E:\Event\Bootcamp Metrodata\Tugas\task1-PalindromeCheck\task1-PalindromeCheck\obj\Debug\net6.0\ref\task1-PalindromeCheck.dll
